@@ -1,8 +1,6 @@
-.style {
-    height: 100vh;
-    background: url(./Autumn.jpeg);
-    background-size: cover;
-    }
+body {
+	font-family: 'Comfortaa', cursive;
+}
 .title {
-    font-family: 'Indie Flower', cursive;
-        }
+	font-family: 'Lobster', cursive;
+}
